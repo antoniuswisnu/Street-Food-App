@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Street Food App</string>
+    <string name="itemes_name">Nama Makanan/Minuman</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="no_meja">No Meja</string>
+    <string name="nama_pelanggan">Nama Pelanggan</string>
+    <string name="welcome_to_street_food_app">Welcome to Street Food App</string>
+    <string name="pesan_menu">Pesan Menu</string>
+    <string name="silahkan_pilih_menu_anda">Silahkan Pilih Menu Anda</string>
+    <string name="todo">TODO</string>
+</resources>
